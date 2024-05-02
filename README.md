@@ -2,12 +2,12 @@
 <img src="img/homework.jpeg" alt="нет картинки">
 <ul>
     <li>
-        <a href="https://dzen.ru"><img src="img/dzen.png" style="wigth:30px;height:30px"></a>
+        <a href="https://dzen.ru"><img src="img/dzen.png" style="wigth:60px;height:60px"></a>
     </li>
     <li>
-        <a href="https://megamarket.ru/"><img src="img/meramarket.png" style="wigth:30px;height:30px"></a>
+        <a href="https://megamarket.ru/"><img src="img/meramarket.png" style="wigth:60px;height:60px"></a>
     </li>
     <li>
-        <a href="https://kare.rest/"><img src="img/kare.jpeg" style="wigth:30px;height:30px"></a>
+        <a href="https://kare.rest/"><img src="img/kare.jpeg" style="wigth:60px;height:60px"></a>
     </li>
 </ul>
